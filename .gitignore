@@ -1,0 +1,14 @@
+.idea/
+__pycache__
+checkpoints/
+checkpoints_application/
+checkpoints_G_coord_resnet50/
+val_out/
+datasets/
+dataTemp/
+venv/
+val_out/
+datasets/
+pip
+G
+G.pdf
