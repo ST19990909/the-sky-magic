@@ -5,8 +5,8 @@ import utils
 from mattingCompare import *
 
 # settings
-# netModel = "resnet152"
-# netModelExtend="resnet152"
+# netModel = "resnet50"
+# netModelExtend="resnet50"
 netModel = "coord_resnet152"
 netModelExtend="coord_resnet152"
 
